@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StoreApp</string>
+    <string name="hint_email_login">Escriba su correo electrónico</string>
+    <string name="hint_password_login">escriba su contraseña</string>
+    <string name="txt_login">login</string>
+    <string name="txt_sign_up">Sign Up</string>
+    <string name="email">jon@correo.com</string>
+    <string name="password">123456789</string>
+</resources>
