@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828723029878",
+    "project_id": "storeapp-jhoncaicedo",
+    "storage_bucket": "storeapp-jhoncaicedo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828723029878:android:cadbbceadf1a8b0590bc57",
+        "android_client_info": {
+          "package_name": "co.edu.unab.mgads.joncaicedo.storeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828723029878-mcs35a249c6ttstc3t8m7k1k0flnmh5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.unab.mgads.joncaicedo.storeapp",
+            "certificate_hash": "dc46a63928975a282636fb5d41d5e471fb022739"
+          }
+        },
+        {
+          "client_id": "828723029878-n34le0p0egev5m7a74aca2urghemonv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPKcrJ8Pf59-FL2_Cjxnt4d9vWOh5jmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828723029878-n34le0p0egev5m7a74aca2urghemonv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
